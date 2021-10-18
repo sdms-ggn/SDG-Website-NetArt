@@ -1,0 +1,312 @@
+.container1 {
+    height: 100px;
+    width: 99%;
+    border: 6px solid #e42538;
+    background-color: #e42538;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: 9px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+  
+  }
+  
+  .number1 {
+    text-align: center;
+    padding-left: 20px;
+  }
+  .container1:hover {
+    height: 120px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+  
+  .container2 {
+    height: 100px;
+    width: 99%;
+    border: 6px solid #dea83c;
+    background-color: #dea83c;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: 9px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+  
+  }
+  
+  .number2 {
+    text-align: center;
+    padding-left: 20px;
+  }
+  .container2:hover {
+    height: 120px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+  
+  .container3 {
+    height: 100px;
+    width: 99%;
+    border: 6px solid #27bde3;
+    background-color: #27bde3;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: 9px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+  
+  }
+  
+  .number3 {
+    text-align: center;
+    padding-left: 20px;
+  }
+  .container3:hover {
+    height: 120px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+  
+  .container4 {
+    height: 100px;
+    width: 99%;
+    border: 6px solid #4e9f38;
+    background-color: #4e9f38;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: 9px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+  
+  }
+  
+  .number4 {
+    text-align: center;
+    padding-left: 20px;
+  }
+  .container4:hover {
+    height: 120px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+  
+  .container5 {
+    height: 100px;
+    width: 99%;
+    border: 6px solid #b21cc9;
+    background-color: #b21cc9;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: 9px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+  
+  }
+  
+  .number5 {
+    text-align: center;
+    padding-left: 20px;
+  }
+  .container5:hover {
+    height: 120px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+  
+  .container6 {
+    height: 100px;
+    width: 99%;
+    border: 6px solid #de1568;
+    background-color: #de1568;
+    font-family: sans-serif;
+    text-align: left;
+    color: white;
+    font-weight: 9px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+  }
+  
+  .number6 {
+    text-align: center;
+    padding-left: 20px;
+  }
+  .container6:hover {
+    height: 120px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+
+  .container0 {
+    height: 100px;
+    width: 99%;
+    border: 6px solid #fe6924;
+    background-color: #fe6924;
+    font-family: sans-serif;
+    text-align: left;
+    color: white;
+    font-weight: 9px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+  }
+  
+  .number0 {
+    text-align: center;
+    padding-left: 20px;
+  }
+  .container0:hover {
+    height: 120px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+
+
+
+
+
+.container7 {
+    height: 100px;
+    width: 99%;
+    border: 6px solid #58c12c;
+    background-color: #58c12c;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: 9px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+  
+  }
+  
+  .number7 {
+    text-align: center;
+    padding-left: 20px;
+  }
+  .container7:hover {
+    height: 120px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+  
+  .container8 {
+    height: 100px;
+    width: 99%;
+    border: 6px solid #03689d;
+    background-color: #03689d;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: 9px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+  
+  }
+  
+  .number8 {
+    text-align: center;
+    padding-left: 20px;
+  }
+  .container8:hover {
+    height: 120px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+  
+  .container9 {
+    height: 100px;
+    width: 99%;
+    border: 6px solid #3e8045;
+    background-color: #3e8045;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: 9px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+  
+  }
+  
+  .number9 {
+    text-align: center;
+    padding-left: 20px;
+  }
+  .container9:hover {
+    height: 120px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+  
+  .container10 {
+    height: 100px;
+    width: 99%;
+    border: 6px solid #fdc30a;
+    background-color: #fdc30a;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: 9px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+  
+  }
+  
+  .number10 {
+    text-align: center;
+    padding-left: 20px;
+  }
+  .container10:hover {
+    height: 120px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+  
+  .container11 {
+    height: 100px;
+    width: 99%;
+    border: 6px solid #de1568;
+    background-color: #de1568;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: 9px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+  
+  }
+  
+  .number11 {
+    text-align: center;
+    padding-left: 20px;
+  }
+  .container11:hover {
+    height: 120px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+  
+  .container12 {
+    height: 100px;
+    width: 99%;
+    border: 6px solid #ff3c23;
+    background-color: #ff3c23;
+    font-family: sans-serif;
+    text-align: left;
+    color: white;
+    font-weight: 9px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+  }
+  
+  .number12 {
+    text-align: center;
+    padding-left: 20px;
+  }
+  .container12:hover {
+    height: 120px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
